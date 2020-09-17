@@ -1,0 +1,1 @@
+GOOGLE_APPLICATION_CREDENTIALS = './Zillow-Rent Project-9d77dd15540f.json'
